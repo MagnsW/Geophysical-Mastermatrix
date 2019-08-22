@@ -1,5 +1,5 @@
 *.log
 *.ppt
 *.pptx
-*.dan
 *.png
+.DS_store

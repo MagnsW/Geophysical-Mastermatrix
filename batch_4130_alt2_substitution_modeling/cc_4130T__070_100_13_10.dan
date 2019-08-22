@@ -1,0 +1,105 @@
+DROPOUT SIGNATURE STATISTICS :
+
+Project : 2018_06_MasterMatrix
+Dataset : 1drop_sparesub_cc
+
+File format number   : 8
+Statistics created by Nucleus+ version 2.7.1
+Statistics created by Marine source modelling version 1.11.1
+
+User reference       : 
+
+Computed dropout signature statistics.
+Correlation measure  : Cross correlation.
+
+Project name               : 2018_06_MasterMatrix
+Dropout signature dataset  : 1drop_sparesub_cc
+Dropout array name         : 4130T__070_2000_100_13
+Reference array name       : 4130T__070_2000_100_alt2
+Instrument filter          : GeoStr LChyd_3/7-214/341
+
+Primary pick window (ms)   : -68.50  -   30.00
+Bubble pick mode           : Manual
+Bubble pick window (ms)    :  50.00  -  200.00
+
+Amplitude option           : Positive peak amplitude.
+Frequency analysis option  : Average absolute spectral deviation.
+Bandwidth of analysis (Hz) :  10.00  -   70.00
+
+Sampling interval (ms)     :      0.50
+Water velocity (m/s)       :   1490.05
+Water temperature (C)      :     10.00
+Notional refl. coeff       :     -1.00
+Farfield refl. coeff       :     -1.00
+Farfield dip angle (deg)   :      0.00
+Farfield azimuth (deg)     :      0.00
+Farfield distance (m)      :   9000.00
+
+
+In the table below :
+   Peak     - Primary positive peak amplitude
+   %ch      - Percentage change
+   P/B      - Primary/Bubble ratio
+   X-cor    - Cross correlation coefficient (normalized)
+   AvgdB    - Average absolute deviation (dB)
+   MaxdB    - Maximum absolute deviation (dB)
+   (Negative gun number means activated spare gun)
+
+Reference array values     : 
+Peak     :      69.7
+P/B      :      22.9
+
+
+Dropped gun numbers  Gun volumes    Peak     %ch     P/B     %ch     X-cor    AvgdB    MaxdB
+
+    0    0               0          69.7     0.0    22.5    -1.9    0.9997     0.13      0.8
+    1    1             150          67.9    -2.6    19.7   -13.9    0.9990     0.35      1.4
+    1    2             150          67.9    -2.6    19.7   -13.9    0.9990     0.35      1.5
+    1    3             150          68.1    -2.4    18.6   -18.7    0.9987     0.37     -1.7
+    1    4             150          68.1    -2.4    18.7   -18.6    0.9986     0.36     -1.7
+    1    5              40          68.6    -1.5    22.3    -2.7    0.9996     0.13      0.8
+    1    7              70          68.1    -2.4    21.6    -5.7    0.9996     0.18      0.9
+    1    9             100          67.9    -2.6    23.1     0.7    0.9996     0.21      0.8
+    1   11              90          68.3    -2.0    21.4    -6.8    0.9995     0.20      0.9
+    1   12              90          68.3    -2.0    21.5    -6.3    0.9996     0.20      0.9
+    1   13             250          67.5    -3.2    15.2   -33.9    0.9965     0.53      2.9
+    1   14             250          67.5    -3.2    15.3   -33.3    0.9965     0.53      2.9
+    2    1             150          67.9    -2.6    20.8    -9.3    0.9978     0.44     -3.2
+    2    2             150          67.9    -2.6    20.8    -9.2    0.9979     0.44     -3.1
+    2    3              90          67.6    -3.0    23.2     1.2    0.9995     0.22      1.1
+    2    5              60          68.2    -2.2    22.7    -0.9    0.9995     0.16      1.0
+    2    7              70          68.1    -2.3    22.4    -2.5    0.9994     0.17      1.0
+    2    9             100          68.0    -2.5    22.6    -1.3    0.9995     0.20      0.9
+    2   11             100          68.3    -2.0    21.9    -4.6    0.9995     0.23     -1.0
+    2   12             100          68.3    -2.0    21.8    -4.7    0.9995     0.23     -1.0
+    2   13             250          66.6    -4.5    21.9    -4.6    0.9980     0.54     -2.4
+    3    1             150          67.0    -3.9    23.4     2.0    0.9991     0.45      1.8
+    3    3              60          68.5    -1.8    23.8     3.7    0.9996     0.20      0.8
+    3    4              60          68.5    -1.8    23.6     2.8    0.9996     0.20      0.8
+    3    5              90          68.0    -2.5    23.0     0.3    0.9995     0.21      0.9
+    3    7              70          68.3    -2.1    22.5    -1.8    0.9995     0.17      0.8
+    3    9              70          68.6    -1.6    20.6   -10.2    0.9995     0.19      1.1
+    3   10              70          68.6    -1.6    20.6   -10.3    0.9995     0.20      1.1
+    3   11             250          67.7    -2.8    16.8   -26.7    0.9956     0.56      3.5
+    3   12             250          67.7    -2.9    16.8   -26.8    0.9955     0.57      3.5
+    3   13             250          67.5    -3.2    19.0   -17.3    0.9974     0.48      3.1
+    3   14             250          67.5    -3.2    18.9   -17.4    0.9974     0.48      3.1
+    1    9    1  -10   100   100    69.7     0.0    22.5    -1.9    0.9997     0.13      0.8
+    2    9    1  -10   100   100    69.2    -0.7    22.8    -0.6    0.9995     0.18      1.2
+    2   11    1  -10   100   100    69.6    -0.2    21.9    -4.4    0.9996     0.16     -1.0
+    2   12    1  -10   100   100    69.5    -0.2    21.9    -4.4    0.9996     0.16     -1.0
+    1   13    2  -14   250   250    69.7     0.0    22.8    -0.7    0.9995     0.17     -1.0
+    1   14    2  -14   250   250    69.7     0.0    22.9    -0.1    0.9995     0.18     -1.1
+    2   13    2  -14   250   250    69.7     0.0    22.5    -1.6    0.9997     0.13      0.8
+    3   11    2  -14   250   250    70.0     0.4    15.7   -31.4    0.9946     0.59     -2.6
+    3   12    2  -14   250   250    70.0     0.4    15.7   -31.4    0.9945     0.59     -2.7
+    3   13    2  -14   250   250    69.7     0.0    17.3   -24.7    0.9963     0.46     -2.3
+    3   14    2  -14   250   250    69.7     0.0    17.2   -24.8    0.9962     0.46     -2.3
+    1    1    3   -2   150   150    69.7     0.0    19.6   -14.4    0.9992     0.21      1.4
+    1    2    3   -2   150   150    69.7     0.0    19.6   -14.3    0.9992     0.21      1.3
+    1    3    3   -2   150   150    69.9     0.3    18.7   -18.4    0.9987     0.27     -1.4
+    1    4    3   -2   150   150    69.9     0.3    18.7   -18.4    0.9987     0.27     -1.3
+    2    1    3   -2   150   150    69.7    -0.0    22.9    -0.2    1.0000     0.00      0.0
+    2    2    3   -2   150   150    69.7     0.0    22.9     0.0    1.0000     0.00      0.0
+    3    1    3   -2   150   150    69.7     0.0    22.4    -2.3    0.9997     0.14      0.7
+END OF DATA.
