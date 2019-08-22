@@ -1,0 +1,6 @@
+import pandas as pd
+
+header = 
+df = pd.read_csv('st_4130T__060_2000_080_25.dan', skiprows=75, delim_whitespace=True)
+
+print(df.head())
